@@ -5,7 +5,7 @@ a {
 
 ul {
     list-style: none;
-    margin-left: 20%;
+    margin-left: 60%;
 }
 
 li {
@@ -31,4 +31,6 @@ img{
     resize: both;
     overflow: auto;
 } */
-
+.sign-up{
+    cursor: pointer;
+}
